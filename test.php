@@ -29,6 +29,7 @@ $colors= "blue";
             echo "la page est rouge";
          }else{
             echo"la page est bleue";
+            
          }
         ?>
     </h1>

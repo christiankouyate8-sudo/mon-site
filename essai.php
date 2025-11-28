@@ -28,7 +28,8 @@
         if ($color=='black') {
           echo"la page est noire ";
         } else {
-            echo"la page est verte vous pouvez le constatez";
+            echo"la page est verte vous pouvez le constatez ";
+            echo"Bienvenue a vous !";
         }
         
         ?>
