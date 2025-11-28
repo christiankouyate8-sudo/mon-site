@@ -17,7 +17,7 @@
                  } else {
                  echo $colors;
                  }
-             
+        
                  ?>;
         }
     </style>
@@ -28,7 +28,7 @@
         if ($color=='black') {
           echo"la page est noire ";
         } else {
-            echo"la page est verte";
+            echo"la page est verte vous pouvez le constatez";
         }
         
         ?>
