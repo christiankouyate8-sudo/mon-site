@@ -16,6 +16,7 @@ $colors= "blue";
                     echo $color;
                 } else {
                     echo $colors;
+                    echo"Bienvenue a vous !";
                 }
                 
                 ?>;
@@ -29,6 +30,7 @@ $colors= "blue";
             echo "la page est rouge";
          }else{
             echo"la page est bleue";
+             echo"Bienvenue a vous !";
          }
         ?>
     </h1>
